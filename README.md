@@ -5,5 +5,5 @@ The voxel resolution in the three directions of the xyz is different, and the vo
 Therefore, a high voxel resolution image in the z-axis is obtained through neural network prediction.
 
 Data and code availability are publicly available as of the date of publication.
-If you use this dataset for your research, please cite our paper 《Data-driven Tangled Filament Recognition in Digital Neuron Reconstruction》
+If you use this dataset for your research, please cite our paper 《Data-driven Tangled Filament Recognition in Digital Neuron Reconstruction》.
 Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request.
