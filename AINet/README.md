@@ -1,0 +1,4 @@
+# AINet
+This program is used for axial interpolation of neuron images to obtain isotropic images. The voxel resolution in the three directions of the xyz is different, and the voxel resolution in the z-axis is lower. Therefore, a high voxel resolution image in the z-axis is obtained through neural network prediction.
+
+When using this program to train a network, you need to place two folders in the image folder, one is a low resolution image and the other is a ground truth image for learning. The training results will be saved in the checkpoint folder.

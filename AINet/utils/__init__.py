@@ -1,0 +1,2 @@
+from .predict_function import test_data_for_1600_1600_data, predict_mosaic_data,predict_mosaic_256
+
