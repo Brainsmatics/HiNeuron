@@ -7,3 +7,7 @@ Therefore, a high voxel resolution image in the z-axis is obtained through neura
 Data and code availability are publicly available as of the date of publication.
 If you use this dataset for your research, please cite our paper 《Data-driven Tangled Filament Recognition in Digital Neuron Reconstruction》.
 Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request.
+
+The HiNeuron event has been deposited in Zenodo under http://doi.org/10.5281/zenodo.10260457 and is publicly available as of the date of publication. 
+
+
