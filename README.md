@@ -10,22 +10,3 @@ Any additional information required to reanalyze the data reported in this paper
 
 The HiNeuron event has been deposited in Zenodo under http://doi.org/10.5281/zenodo.10260457 and is publicly available as of the date of publication. 
 
-Requisites
-
-Python 3.6 or newer
-
-· numpy
-
-· opencv
-
-· keras
-
-·	os
-
-·	skimage
-
-·	time
-
-This program is trained using train.py and then predicted using predict.py. 
-
-The training set is placed in the image folder.
