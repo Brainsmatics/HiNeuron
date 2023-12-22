@@ -3,7 +3,7 @@ This program is used for axial interpolation of neuron images to obtain isotropi
 
 When using this program to train a network, you need to place two folders in the image folder, one is a low resolution image and the other is a ground truth image for learning. The training results will be saved in the checkpoint folder.
 
-Requisites
+Prerequisities
 
 Python 3.6 or newer
 
