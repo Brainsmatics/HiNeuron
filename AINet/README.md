@@ -5,6 +5,10 @@ When using this program to train a network, you need to place two folders in the
 
 Prerequisities
 
+Nvidia GPU corresponding driver
+
+CUDA: cuda 9.0
+
 Python 3.6 or newer
 
 · numpy
